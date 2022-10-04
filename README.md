@@ -1,4 +1,4 @@
-# CRUD PHP
+# Cadastro de usuários com CRUD PHP
 
 ![preview](./.github/img01.PNG)
 ![preview](./.github/img02.PNG)
