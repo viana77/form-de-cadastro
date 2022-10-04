@@ -1,6 +1,6 @@
 # CRUD PHP
 
-![preview](./.github/CRUD-PHP.mp4)
+![preview](./.github/img01.png)
 
 Área de cadastro de usuários, podendo editar os dados e excluir informações de usuários já cadastrados.
 
